@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">a Computer Science professional with expertise in data science, deep learning, and software development. I specialize in leveraging advanced machine learning techniques and developing innovative solutions to tackle complex challenges. With a strong foundation in both practical and theoretical aspects of technology, I excel in creating impactful applications and performing effective data analysis.</h3>
+<h1 align="center">Hey there 👋, I'm Rahul</h1>
+<h3 align="center">A Computer Science professional with expertise in data science, deep learning, and software development. I specialize in leveraging advanced machine learning techniques and developing innovative solutions to tackle complex challenges. With a strong foundation in both practical and theoretical aspects of technology, I excel in creating impactful applications and performing effective data analysis.</h3>
 
-- 👯 I’m open to collaborations **on full-stack projects, research papers, and exploring new opportunities in AI, data science and Machine Learning**
+- 👨🏽‍💻 I’m open to collaborations **on full-stack projects, research papers, and exploring new opportunities in AI, data science and Machine Learning**
 
 - 🔭 I’m currently working on **Building and enhancing real-world applications and tools, with a focus on creating impactful solutions.**
 
