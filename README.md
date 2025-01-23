@@ -1,9 +1,9 @@
 <h1 align="center">Hi👋 I'm Rahul</h1>
-<h3 align="center">A Computer Science grad student with a passion for data science, deep learning, and software development. I specialize in leveraging advanced machine learning techniques and developing innovative solutions to tackle complex challenges. With a strong foundation in both practical and theoretical aspects of technology, I excel in creating impactful applications and using data to solve problems.</h3>
+<h3 align="center">A Computer Science grad student with a passion for data science, deep learning, and software development. I specialize in leveraging advanced deep learning techniques and developing innovative solutions to tackle complex challenges. With a strong foundation in both practical and theoretical aspects of technology, I excel in creating impactful applications and using data to solve problems.</h3>
 
 - 👨🏽‍💻 I’m open to collaborations on **full-stack projects, research papers, and exploring new opportunities in AI, data science and Machine Learning**
 
-- 🔭 I’m currently working on **Building and enhancing real-world applications and tools, with a focus on creating impactful solutions.**
+- 🔭 I’m currently working on **using Deep Learning techniques to improve Alzheimer's diagnosis**
 
 - 📫 You can reach out to me at [ankarath@usc.edu](ankarath@usc.edu)
 
