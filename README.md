@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **using Deep Learning techniques to improve Alzheimer's diagnosis**
 
-- 📫 You can reach out to me at [ankarath@usc.edu](ankarath@usc.edu)
+- 📫 You can reach out to me at [rahulharikumarr@gmail.com](rahulharikumarr@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
